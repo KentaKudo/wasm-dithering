@@ -1,8 +1,9 @@
 [package]
 name = "wasm-dithering"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["KentaKudo <yd37574@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/KentaKudo/wasm-dithering"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
